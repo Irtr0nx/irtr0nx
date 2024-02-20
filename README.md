@@ -1,5 +1,5 @@
 ### Hola a todos :)👋
-Soy relativamente nuevo en el mundo de la programación, estoy aquí para aprender y conocer nuevas formas de realizar códigos en distintos lenguajes de programación como C, Java, python, etc. Espero poder aprender mucho en esta plataforma y realizar distintas actividades.
+Soy relativamente nuevo en el mundo de la programación, estoy aquí para aprender y conocer nuevas formas de realizar códigos en distintos lenguajes de programación como C, Java, python, etc. Como estudiante de ingeniería en sistemas espero poder aprender mucho en esta plataforma y realizar distintas actividades.
 
 
 
