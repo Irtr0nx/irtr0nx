@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola a todos :)👋
+Soy relativamente nuevo en el mundo de la programación, estoy aquí para aprender y conocer nuevas formas de realizar códigos en distintos lenguajes de programación como C, Java, python, etc. Espero poder aprender mucho en esta plataforma y realizar distintas actividades.
+
+
+
+
+
 
 <!--
 **Irtr0nx/irtr0nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
